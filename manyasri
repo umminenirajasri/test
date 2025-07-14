@@ -1,0 +1,36 @@
+ Jenkins is distributed as WAR files, native packages, installers, and Docker images. Follow these installation steps:
+
+    Before downloading, please take a moment to review the Hardware and Software requirements section of the User Handbook.
+    Select one of the packages below and follow the download instructions.
+    Once a Jenkins package has been downloaded, proceed to the Installing Jenkins section of the User Handbook.
+    You may also want to verify the package you downloaded. Learn more about verifying Jenkins downloads.
+
+Download Jenkins 2.504.3 LTS for:
+Generic Java package (.war) SHA-256: ea8883431b8b5ef6b68fe0e5817c93dc0a11def380054e7de3136486796efeb0
+Docker
+Kubernetes
+Ubuntu/Debian
+Red Hat Enterprise Linux and derivatives
+Fedora
+Windows
+openSUSE
+FreeBSD Third party
+Gentoo Third party
+macOS Third party
+OpenBSD Third party
+OpenIndiana Hipster Third party
+
+Download Jenkins 2.518 for:
+Generic Java package (.war) SHA-256: 89fdebca1adc07bd1c480b790e183de001c15337a487523cf02ace06096315fb
+Docker
+Ubuntu/Debian
+Red Hat Enterprise Linux and derivatives
+Fedora
+Windows
+openSUSE
+Arch Linux Third party
+FreeBSD Third party
+Gentoo Third party
+macOS Third party
+OpenBSD Third party
+OpenIndiana Hipster 
